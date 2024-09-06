@@ -1,0 +1,59 @@
+_repo: Aisopoksen-satuja-b-56-elaintarinaa_74326
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Anttila, Werner
+    aliases:
+    - Andelin, Verner
+    - Anttila, Verner
+    birthdate: 1869
+    deathdate: 1954
+    gutenberg_agent_id: '39087'
+    url: http://www.gutenberg.org/2009/agents/39087
+    wikipedia: https://fi.wikipedia.org/wiki/Werner_Anttila
+creator:
+  author:
+    agent_name: Aesop
+    aliases:
+    - Æsop
+    - Aisopos
+    gutenberg_agent_id: '18'
+    url: http://www.gutenberg.org/2009/agents/18
+    wikipedia: https://en.wikipedia.org/wiki/Aesop
+description: ''
+gutenberg_issued: '2024-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74326'
+language: fi
+pgterms:marc905: 20240801095954aisopos
+pgterms:marc906: '1927'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Lasten oma kirjasto 1
+subjects:
+- !lcsh 'Fables, Greek -- Translations into Finnish'
+- !lcsh 'Aesop''s fables -- Translations into Finnish'
+- !lcc 'PA'
+- GITenberg
+tableOfContents: Susi ja karitsa -- Karju ja aasi -- Koira ja varjo -- Kissa ja kukko
+  -- Jalopeura, karhu ja kettu -- Apina ja kettu -- Sika ja susi -- Susi ja kurki
+  -- Maalaishiiri ja kaupunkilaishiiri -- Vanha jalopeura -- Kettu ja korppi -- Paimenpoika
+  -- Sairas hirvi -- Jalopeura ja hiiri -- Onneton avioliitto -- Sammakot kuningasta
+  haluamassa -- Haukka, sammakko ja hiiri -- Kotka ja kettu -- Häijy koira. -- Kettu
+  ja haikara -- Jänikset ja sammakot -- Koira ja susi -- Hirvi katselemassa veteen
+  -- Härkä ja sammakko -- Hevonen ja jalopeura -- Hevonen ja aasi -- Kettu ja sairas
+  jalopeura -- Hirvi ja hevonen -- Leopardi ja kettu -- Tonnokala ja pyöriäinen --
+  Pillinpuhaltaja ja kalat -- Hevonen ja kuormitettu aasi -- Hännätön kettu -- Jänis
+  ja kilpikonna -- Jalopeura ja kettu -- Hirvi ja kauris -- Kotka ja varis -- Aasi,
+  jalopeura ja kukko -- Kilpikonna ja kotka -- Apina ja pyöriäinen -- Kettu ja naamio
+  -- Hupsu kameli -- Kissa ja hiiret -- Kissa ja kettu -- Jalopeura, aasi ja kettu
+  -- Kettu ja susi -- Susi ja jalopeura -- Jalopeura ja muut pedot -- Kukko ja kettu
+  -- Karhu ja mehiläiset -- Kettu ja apina -- Koira hinkalossa -- Kaupustelijan aasi
+  -- Aasi, kettu ja jalopeura -- Kettu ja pihlajanmarjat -- Hiirien kokous.
+title: 'Aisopoksen satuja : $b 56 eläintarinaa'
+url: http://www.gutenberg.org/ebooks/74326
